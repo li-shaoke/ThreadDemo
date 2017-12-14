@@ -1,0 +1,6 @@
+G:\share\ThreadDemo\ParallelOptions\bin\Debug\ParallelOptions.exe.config
+G:\share\ThreadDemo\ParallelOptions\bin\Debug\ParallelOptions.exe
+G:\share\ThreadDemo\ParallelOptions\bin\Debug\ParallelOptions.pdb
+G:\share\ThreadDemo\ParallelOptions\obj\Debug\ParallelOptions.exe
+G:\share\ThreadDemo\ParallelOptions\obj\Debug\ParallelOptions.pdb
+G:\share\ThreadDemo\ParallelOptions\obj\Debug\ParallelOptionsDemo.csprojResolveAssemblyReference.cache

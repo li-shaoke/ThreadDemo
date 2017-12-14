@@ -1,0 +1,6 @@
+G:\share\ThreadDemo\ThreadAbort\bin\Debug\ThreadAbort.exe.config
+G:\share\ThreadDemo\ThreadAbort\bin\Debug\ThreadAbort.exe
+G:\share\ThreadDemo\ThreadAbort\bin\Debug\ThreadAbort.pdb
+G:\share\ThreadDemo\ThreadAbort\obj\Debug\ThreadAbort.exe
+G:\share\ThreadDemo\ThreadAbort\obj\Debug\ThreadAbort.pdb
+G:\share\ThreadDemo\ThreadAbort\obj\Debug\ThreadAbort.csprojResolveAssemblyReference.cache

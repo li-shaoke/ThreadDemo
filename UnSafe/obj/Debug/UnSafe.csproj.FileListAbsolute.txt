@@ -1,0 +1,5 @@
+G:\share\ThreadDemo\UnSafe\bin\Debug\UnSafe.exe.config
+G:\share\ThreadDemo\UnSafe\bin\Debug\UnSafe.exe
+G:\share\ThreadDemo\UnSafe\bin\Debug\UnSafe.pdb
+G:\share\ThreadDemo\UnSafe\obj\Debug\UnSafe.exe
+G:\share\ThreadDemo\UnSafe\obj\Debug\UnSafe.pdb

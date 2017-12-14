@@ -1,0 +1,6 @@
+G:\share\ThreadDemo\ThreadSafetyCostTime\bin\Debug\ThreadSafetyCostTime.exe.config
+G:\share\ThreadDemo\ThreadSafetyCostTime\bin\Debug\ThreadSafetyCostTime.exe
+G:\share\ThreadDemo\ThreadSafetyCostTime\bin\Debug\ThreadSafetyCostTime.pdb
+G:\share\ThreadDemo\ThreadSafetyCostTime\obj\Debug\ThreadSafetyCostTime.csprojResolveAssemblyReference.cache
+G:\share\ThreadDemo\ThreadSafetyCostTime\obj\Debug\ThreadSafetyCostTime.exe
+G:\share\ThreadDemo\ThreadSafetyCostTime\obj\Debug\ThreadSafetyCostTime.pdb

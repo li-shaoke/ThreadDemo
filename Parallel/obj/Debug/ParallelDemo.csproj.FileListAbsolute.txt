@@ -1,0 +1,5 @@
+G:\share\ThreadDemo\Parallel\bin\Debug\Parallel.exe.config
+G:\share\ThreadDemo\Parallel\bin\Debug\Parallel.exe
+G:\share\ThreadDemo\Parallel\bin\Debug\Parallel.pdb
+G:\share\ThreadDemo\Parallel\obj\Debug\Parallel.exe
+G:\share\ThreadDemo\Parallel\obj\Debug\Parallel.pdb

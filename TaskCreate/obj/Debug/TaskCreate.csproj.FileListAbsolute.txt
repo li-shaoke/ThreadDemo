@@ -1,0 +1,5 @@
+G:\share\ThreadDemo\TaskCreate\bin\Debug\TaskCreate.exe.config
+G:\share\ThreadDemo\TaskCreate\bin\Debug\TaskCreate.exe
+G:\share\ThreadDemo\TaskCreate\bin\Debug\TaskCreate.pdb
+G:\share\ThreadDemo\TaskCreate\obj\Debug\TaskCreate.exe
+G:\share\ThreadDemo\TaskCreate\obj\Debug\TaskCreate.pdb

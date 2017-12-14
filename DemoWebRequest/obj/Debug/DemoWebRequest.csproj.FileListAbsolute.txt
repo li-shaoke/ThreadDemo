@@ -1,0 +1,6 @@
+G:\share\ThreadDemo\DemoWebRequest\bin\Debug\DemoWebRequest.exe.config
+G:\share\ThreadDemo\DemoWebRequest\bin\Debug\DemoWebRequest.exe
+G:\share\ThreadDemo\DemoWebRequest\bin\Debug\DemoWebRequest.pdb
+G:\share\ThreadDemo\DemoWebRequest\obj\Debug\DemoWebRequest.csprojResolveAssemblyReference.cache
+G:\share\ThreadDemo\DemoWebRequest\obj\Debug\DemoWebRequest.exe
+G:\share\ThreadDemo\DemoWebRequest\obj\Debug\DemoWebRequest.pdb
